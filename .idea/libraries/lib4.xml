@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Day14Tomcat/out/artifacts/day14_test_war_exploded/web_inf/lib/mchange-commons-java-0.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day14Tomcat/out/artifacts/day14_test_war_exploded/web_inf/lib/spring-beans-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day14Tomcat/out/artifacts/day14_test_war_exploded/web_inf/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day14Tomcat/out/artifacts/day14_test_war_exploded/web_inf/lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day14Tomcat/out/artifacts/day14_test_war_exploded/web_inf/lib/spring-tx-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day14Tomcat/out/artifacts/day14_test_war_exploded/web_inf/lib/spring-jdbc-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day14Tomcat/out/artifacts/day14_test_war_exploded/web_inf/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Day14Tomcat/out/artifacts/day14_test_war_exploded/web_inf/lib/spring-core-5.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

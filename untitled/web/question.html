@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/serveyServlet" method="get">
+    Q1:班级？<br>
+    <input type="radio" name="class" value="计科191">计科191
+    <input type="radio" name="class" value="计科192">计科192
+    <input type="radio" name="class" value="计科193">计科193 <br>
+    Q2:姓名？<br>
+    <input type="text" name="name"> <br>
+    Q3:经常会使用哪些网站？<br>
+    <input type="checkbox" name="internet" value="淘宝">淘宝
+    <input type="checkbox" name="internet" value="京东">京东
+    <input type="checkbox" name="internet" value="当当">当当
+    <input type="checkbox" name="internet" value="其他">其他<br>
+    Q4:网购多偏向于什么种类？<br>
+    <input type="checkbox" name="shop" value="服饰">服饰
+    <input type="checkbox" name="shop" value="化妆品">化妆品
+    <input type="checkbox" name="shop" value="生活用品">生活用品
+    <input type="checkbox" name="shop" value="电子产品">电子产品
+    <input type="checkbox" name="shop" value="其他">其他 <br>
+    Q5:网购网站还需要哪些方面需要改进？<br>
+    <input type="textarea" style="width: 300px;height: 150px" name="advice"><br>
+    <input type="submit" value="提交并查看结果">
+</form>
+</body>
+</html>
